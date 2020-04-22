@@ -1,4 +1,4 @@
-ge: node:latest
+image: node:latest
 
 before_script:
     - apt-get update -qy
